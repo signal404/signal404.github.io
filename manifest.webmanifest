@@ -1,0 +1,8 @@
+{
+    "short_name": "Nelfs f5 si",
+    "name": "Nelfs f5 si",
+    "description": "An multiplayer game",
+    "start_url": "./index.html",
+    "theme_color": "#440063",
+    "background_color": "#440063"
+  }

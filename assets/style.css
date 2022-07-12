@@ -1,0 +1,72 @@
+#top{
+    height:38%;
+    width:100%;
+    position : absolute;
+    top:0;
+    left:0;
+    right:0;
+    margin:auto;
+    background: linear-gradient(to bottom right , #36003e, #0d007e);
+}
+
+.cnt{
+    z-index: 10;
+    width:100%;
+    position : absolute;
+    top:38%;
+    left:0;
+    right:0;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#end{
+    z-index: 0;
+    margin-top: 10%;
+    height:38%;
+    width:100%;
+    position : absolute;
+    top:100%;
+    left:0;
+    right:0;
+    margin-left:auto;
+    margin-right:auto;
+    background: linear-gradient(to bottom right , #f8c9ff, #c4beff);
+}
+
+#icon{
+    height:80%;
+    position:absolute;
+    border-radius: 50% 50% 50% 50%;
+    border:solid 3px rgb(0, 210, 255);
+    left:20%;
+    margin-top:1%;
+}
+
+#nlfs{
+    position:absolute;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 150px;
+    top:15%;
+    left:35%;
+    margin-left: 10%;
+    -webkit-text-stroke: 2px rgb(255, 255, 255);
+}
+
+#sgnl{
+    position:absolute;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 50px;
+    top:35%;
+    left:65%;
+    margin-left: 10%;
+    -webkit-text-stroke: 1px rgb(255, 255, 255);
+}
+
+#gitico{
+    position:absolute;
+    top:40%;
+    margin-left: 25%;
+}
